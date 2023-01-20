@@ -1,0 +1,22 @@
+body {
+    background: url(../image/wp8121945.jpg);
+}
+.center {
+    display: flex;
+    justify-content: center;
+}
+p {
+    color: white;
+}
+.counter {
+    font-size: 30px;
+}
+h2 {
+    color: white;
+}
+.content {
+    display: none; 
+}
+.content2 {
+    display: none; 
+}
